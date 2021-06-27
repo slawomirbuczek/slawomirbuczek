@@ -2,14 +2,12 @@
 
 ## About me
 My name's Sławomir, currently a 3rd year Applied Computer Science student at the Cracow University of Technology.  
-Open to work as a Java Dev.
 
 ## Currently learning
   * Spring framework
-  * SQL/PostgreSQL
+  * SQL/NoSQL
   * Linux (wanna switch from W10 in the near future)
   * Microservices architecture
-  * How to pass an interview
 
 ## Skills
   * Java
@@ -24,8 +22,6 @@ Open to work as a Java Dev.
   * IntelliJ IDEA
 
 ## TODO in 2021
-  * Get an internship
-  * Create REST API for passenger transport company - university project
   * Web app supporting the management of the dormitory - BSc Thesis
   
 ## Contact
